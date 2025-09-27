@@ -10,8 +10,8 @@ author: "Pingfan Hu, Brian Tarroja, Matthew Dean, Kate Forrest, Eric Hittinger, 
 format:
   revealjs: 
     smaller: false
-    theme: theme.scss
-    css: slides.css
+    theme: styles/theme.scss
+    css: styles/slides.css
     bibliography: bibliography.bib
     slide-number: true
     embed-resources: true
