@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _site
+
+pagetitle: "Grid-Integration"
+title: "Grid-Integration of Electric Vehicles"
+subtitle: '<span style="font-family: var(--r-heading-font); font-weight: var(--r-heading-font-weight); font-size: 1em; color: var(--r-heading-color);">Consumer Preferences for Smart Charging Programs</span>'
+author: "Pingfan Hu, Brian Tarroja, Matthew Dean, Kate Forrest, Eric Hittinger, Alan Jenn, John Paul Helveston"
+
+format:
+  revealjs: 
+    smaller: false
+    theme: theme.scss
+    css: slides.css
+    bibliography: bibliography.bib
+    slide-number: true
+    embed-resources: true
+    auto-stretch: false
+    preview-links: auto
+    logo: figs/logo.png
+    footer: "<a href='http://pingfanhu.com'>Pingfan Hu</a> - <a href='https://bridgingtransport.org/btr-7-program/'>BTR 7</a>"
+    link-external-newwindow: true
+    link-external-icon: false
+    title-slide-attributes: 
+      data-background-image: figs/banner.png
+      data-background-size: cover
+      data-background-opacity: "0.2"
+
+execute: 
+  warning: false
+  echo: false
