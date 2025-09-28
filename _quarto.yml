@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: _site
 
-pagetitle: "Grid-Integration"
+pagetitle: "Grid-Integration BTR"
 title: "Grid-Integration of Electric Vehicles"
 subtitle: '<span style="font-family: var(--r-heading-font); font-weight: var(--r-heading-font-weight); font-size: 1em; color: var(--r-heading-color);">Consumer Preferences for Smart Charging Programs</span>'
 author: "Pingfan Hu, Brian Tarroja, Matthew Dean, Kate Forrest, Eric Hittinger, Alan Jenn, John Paul Helveston"
