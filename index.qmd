@@ -14,7 +14,7 @@ library(kableExtra)
 
 ::: {.column width="60%"}
 <div style="margin-bottom: 0.1em;">
-- My name is Pingfan Hu, a PhD Candidate at George Washington University, supervised by Dr John Helveston
+- My name is Pingfan Hu, a PhD Candidate at George Washington University, advised by Dr John Helveston
 </div>
 
 <div style="margin-bottom: 0.1em;">
@@ -33,7 +33,7 @@ library(kableExtra)
 :::
 
 ::: {.notes}
-Hi! My name is Pingfan Hu, a PhD Candidate at the George Washington University, supervised by Dr John Helveston.
+Hi! My name is Pingfan Hu, a PhD Candidate at the George Washington University, advised by Dr John Helveston.
 
 My research focuses on EV grid integration, consumer behavior studies on transportation, and research software development.
 
