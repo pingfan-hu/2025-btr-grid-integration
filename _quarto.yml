@@ -8,9 +8,8 @@ subtitle: '<span style="font-family: var(--r-heading-font); font-weight: var(--r
 author: "Pingfan Hu, Brian Tarroja, Matthew Dean, Kate Forrest, Eric Hittinger, Alan Jenn, John Paul Helveston"
 
 format:
-  revealjs: 
+  touhou-revealjs:
     smaller: false
-    theme: styles/theme.scss
     css: styles/slides.css
     bibliography: bibliography.bib
     slide-number: true
