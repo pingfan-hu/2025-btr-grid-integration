@@ -84,3 +84,10 @@ div.csl-entry {
   display: block;
   margin-left: 2.5em;
 }
+
+/* Center the About Me heading over the text column only: offset the h2's
+   box by the photo column width (34%) so its centering axis matches the
+   66% text column beside the photo. */
+.reveal #about-me h2 {
+  margin-left: 34%;
+}
