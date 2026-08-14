@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 pagetitle: "Grid-Integration BTR"
-title: "Grid-Integration of Electric Vehicles"
+title: "Grid-Integration of Battery Electric Vehicles"
 subtitle: '<span style="font-family: var(--r-heading-font); font-weight: var(--r-heading-font-weight); font-size: 1em; color: var(--r-heading-color);">Consumer Preferences for Smart Charging Programs</span>'
 author: "Pingfan&nbsp;Hu, Brian&nbsp;Tarroja, Matthew&nbsp;Dean, Kate&nbsp;Forrest, Eric&nbsp;Hittinger, Alan&nbsp;Jenn, John&nbsp;Paul&nbsp;Helveston"
 

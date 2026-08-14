@@ -64,21 +64,21 @@ Smart charging is a type of managed charging, which includes Supplier-Managed Ch
 
 ## SMC - Supplier Managed Charging {.light-centered .center}
 
-- SMC smooths out overnight EV charging demand.
+- SMC smooths out overnight BEV charging demand.
 - Electricity demand is controlled below the capacity threshold.
 - It saves money and reduces pollution.
 
 ![](figs/education_1_half.png){fig-align="center"}
 
 ::: {.notes}
-For SMC, Supplier-Managed Charging, it smooths out the overnight EV charging demand.
+For SMC, Supplier-Managed Charging, it smooths out the overnight BEV charging demand.
 
 As you can see, with unmanaged charging, the BEV load easily exceeds the capacity threshold.
 :::
 
 ## SMC - Supplier Managed Charging {.light-centered .center}
 
-- SMC smooths out overnight EV charging demand.
+- SMC smooths out overnight BEV charging demand.
 - Electricity demand is controlled below the capacity threshold.
 - It saves money and reduces pollution.
 
@@ -111,11 +111,11 @@ However, the effectiveness of smart charging really depends on the enrollment of
 None of them have demographic data to study <span style="color: #739C69">heterogeneity</span>.
 
 ::: {.centered-text .container}
-We need high EV ownership & a large sample size, and consider heterogeneity.
+We need high BEV ownership & a large sample size, and consider heterogeneity.
 :::
 
 ::: {.notes}
-There have been a few studies that looked at people's willingness to participate in smart charging programs, but they all have small sample sizes and low EV ownership. Therefore, we aimed to conduct a large-scale survey with high EV ownership to study the heterogeneity of BEV owners' preferences.
+There have been a few studies that looked at people's willingness to participate in smart charging programs, but they all have small sample sizes and low EV ownership. Therefore, we aimed to conduct a large-scale survey with high BEV ownership to study the heterogeneity of BEV owners' preferences.
 :::
 
 ## Research Questions {style="line-height: 2;" .light-centered .center}
