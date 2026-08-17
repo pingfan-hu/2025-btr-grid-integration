@@ -17,7 +17,7 @@ format:
     auto-stretch: false
     preview-links: auto
     logo: figs/logo.png
-    footer: "<a href='http://pingfanhu.com'>Pingfan Hu</a> - <a href='https://bridgingtransport.org/btr-7-program/'>BTR 7</a>"
+    footer: "<a href='https://pingfan.org'>Pingfan Hu</a> - <a href='https://bridgingtransport.org/btr-7-program/'>BTR 7</a>"
     link-external-newwindow: true
     link-external-icon: false
     title-slide-attributes: 

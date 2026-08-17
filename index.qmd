@@ -22,7 +22,7 @@ library(kableExtra)
     3. **Agentic AI Engineering** around Claude Code
   </div>
 
-- For more information, visit [**pingfanhu.com**](http://pingfanhu.com)
+- For more information, visit [**pingfan.org**](https://pingfan.org)
 :::
 :::
 
@@ -31,7 +31,7 @@ Hi! My name is Pingfan Hu, a PhD Candidate at the George Washington University, 
 
 My research interests are data science in sustainable transportation and human behavior, open-source software in R tools for survey research, and agentic AI engineering around Claude Code.
 
-For more information, you can visit my website at pingfanhu.com.
+For more information, you can visit my website at pingfan.org.
 :::
 
 ## EV sales in US reaching ~10% of sales {style="text-align: center;" .light-centered .center}
